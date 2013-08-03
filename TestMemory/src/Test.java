@@ -11,6 +11,6 @@ public class Test {
 		}
 	}
 	public static void testMethod(){
-		System.out.pringln("this is merge conflict");
+		System.out.pringln("this is merge conflict1");
 	}
 }
