@@ -13,4 +13,8 @@ public class Test {
 	public static void testMethod(){
 		System.out.pringln("testMethod updated..");
 	}
+	
+	public static void testMethod2(){
+		System.out.pringln("testMethod2 updated..");
+	}
 }
