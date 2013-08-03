@@ -11,6 +11,6 @@ public class Test {
 		}
 	}
 	public static void testMethod(){
-		System.out.pringln("this is no merge conflict should be there......");
+		System.out.pringln("testMethod updated..");
 	}
 }
