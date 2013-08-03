@@ -10,4 +10,6 @@ public class Test {
 			s.add("test this will break");
 		}
 	}
+	public static void testMethod(){
+	}
 }
