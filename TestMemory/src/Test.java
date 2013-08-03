@@ -6,8 +6,8 @@ public class Test {
 	public static void main(String[] args) throws InterruptedException {
 		while(true){
 			//s.add(new TestPOJO());
-			System.out.println("true..");
 			s.add("test this will break");
+			System.out.println("true..");
 		}
 	}
 }
