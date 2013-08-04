@@ -11,7 +11,7 @@ public class Test {
 		}
 	}
 	public static void testMethod(){
-		System.out.pringln("testMethod updated..");
+		System.out.println("testMethod updated..");
 	}
 	
 }
